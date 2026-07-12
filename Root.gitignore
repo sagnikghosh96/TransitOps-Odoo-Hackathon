@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+backend/venv/
+backend/.venv/
+backend/transitops.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Env
+.env
+.env.local
+*.log
+
+# OS
+.DS_Store

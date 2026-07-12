@@ -1,0 +1,4 @@
+# Copy this to .env and set to your backend URL.
+# In GitHub Codespaces, forward port 8000 and paste the forwarded HTTPS URL here.
+# Locally, http://localhost:8000 works fine.
+VITE_API_URL=http://localhost:8000
